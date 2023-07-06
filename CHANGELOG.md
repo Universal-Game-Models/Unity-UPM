@@ -1,3 +1,11 @@
+# 1.0.0 (2023-07-06)
+
+
+### Bug Fixes
+
+* change branch yml setting ([166f7e8](https://github.com/Universal-Game-Models/Unity-UPM/commit/166f7e82aa348308d0fdd74e0abbed9a17127559))
+* changing repo ([7604c09](https://github.com/Universal-Game-Models/Unity-UPM/commit/7604c09c5bda71a4ba1ac01c7db7ce16d3a2c3e5))
+
 # 1.0.0 (2023-07-04)
 
 
