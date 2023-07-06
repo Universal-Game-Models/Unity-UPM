@@ -22,7 +22,7 @@ namespace UGM.Editor
             new DependenciesInfo
             {
                 name = "com.nftygames.ugmcore",
-                gitUrl = "https://github.com/Universal-Game-Models/Unity-SDK.git#upmcore",
+                gitUrl = "https://github.com/Universal-Game-Models/Unity-UPM.git#upmcore",
                 version = "0.0.1"
             }
         };
