@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.0...v1.0.1) (2023-07-06)
+
+
+### Bug Fixes
+
+* change url for dependancies core link ([ed2be05](https://github.com/Universal-Game-Models/Unity-UPM/commit/ed2be057847b09a7ffc4d46ed2dde265031deb89))
+
 # 1.0.0 (2023-07-06)
 
 
