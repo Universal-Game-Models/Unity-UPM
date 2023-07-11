@@ -1,6 +1,6 @@
 {
     "name": "com.nftygames.ugmcore",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "UGM Core",
     "description": "This is the SDK of the UGM Core",
     "unity": "2020.3",
