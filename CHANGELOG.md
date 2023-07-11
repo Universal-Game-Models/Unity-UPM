@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.1...v1.0.2) (2023-07-11)
+
+
+### Bug Fixes
+
+* moved required materials to core ([ed98b3d](https://github.com/Universal-Game-Models/Unity-UPM/commit/ed98b3dfcff5f060246a1819cf75ca64964007bc))
+
 ## [1.0.1](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.0...v1.0.1) (2023-07-06)
 
 
