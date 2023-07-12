@@ -10,7 +10,7 @@ Unity 2020.3 or later versions.
 
 Go to Window>Package Manager and Press the + button and select Add package from git URL...
 ```  
-https://github.com/Universal-Game-Models/Unity-SDK.git#UPM 
+https://github.com/Universal-Game-Models/Unity-UPM.git 
 ``` 
 
 copy the url above and paste it there
