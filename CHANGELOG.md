@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.2...v1.0.3) (2023-07-15)
+
+
+### Bug Fixes
+
+* removed core required assets and moved it to core ([756e690](https://github.com/Universal-Game-Models/Unity-UPM/commit/756e6903b805427e45dca0d84aade2edf1a4a03d))
+* update readme ([0dd6bc5](https://github.com/Universal-Game-Models/Unity-UPM/commit/0dd6bc59cb69dc6bf9d82cfaef89e4a567b1f95d))
+
 ## [1.0.2](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.1...v1.0.2) (2023-07-11)
 
 
