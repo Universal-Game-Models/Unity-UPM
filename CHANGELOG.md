@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.4...v1.0.5) (2023-07-15)
+
+
+### Bug Fixes
+
+* missing script in the Core example scene ([731d5e4](https://github.com/Universal-Game-Models/Unity-UPM/commit/731d5e4930d34deccb9c5c26aaa8111a44267410))
+
 ## [1.0.4](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.3...v1.0.4) (2023-07-15)
 
 
