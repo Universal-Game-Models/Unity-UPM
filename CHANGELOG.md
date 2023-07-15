@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.3...v1.0.4) (2023-07-15)
+
+
+### Bug Fixes
+
+* version ([5dfb3f9](https://github.com/Universal-Game-Models/Unity-UPM/commit/5dfb3f99d7c40864636b802153957195db459e7a))
+
 ## [1.0.3](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.2...v1.0.3) (2023-07-15)
 
 
