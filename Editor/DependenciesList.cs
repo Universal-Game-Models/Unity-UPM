@@ -23,7 +23,7 @@ namespace UGM.Editor
             {
                 name = "com.nftygames.ugmcore",
                 gitUrl = "https://github.com/Universal-Game-Models/Unity-UPM.git#upmcore",
-                version = "0.0.1"
+                version = "0.0.2"
             }
         };
     }
