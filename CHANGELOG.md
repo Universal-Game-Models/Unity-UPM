@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.5...v1.0.6) (2023-07-26)
+
+
+### Bug Fixes
+
+* changed namespace and added new scene CoreExample and GlobalLoader ([f43af3c](https://github.com/Universal-Game-Models/Unity-UPM/commit/f43af3c6cbe44627898cec27e244d745f87d6d26))
+
 ## [1.0.5](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.4...v1.0.5) (2023-07-15)
 
 
