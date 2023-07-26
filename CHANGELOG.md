@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.6...v1.0.7) (2023-07-26)
+
+
+### Bug Fixes
+
+* not a glTF-binary file error ([aa56fc4](https://github.com/Universal-Game-Models/Unity-UPM/commit/aa56fc462c5fd28fe4443ea4d84f05eb9190106f))
+
 ## [1.0.6](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.5...v1.0.6) (2023-07-26)
 
 
