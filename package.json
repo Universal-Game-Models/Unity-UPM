@@ -1,6 +1,6 @@
 {
     "name": "com.nftygames.ugm",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "displayName": "UGM",
     "description": "This is the SDK of the UGM",
     "unity": "2020.3",
