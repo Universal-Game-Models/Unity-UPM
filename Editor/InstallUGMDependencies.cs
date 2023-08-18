@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
@@ -8,9 +9,10 @@ using PackageInfo = UnityEditor.PackageManager.PackageInfo;
 using UnityEditor.Compilation;
 using System;
 using UnityEngine;
-
+#endif
 namespace UGM.Editor
 {
+    #if UNITY_EDITOR
     [InitializeOnLoad]
     public static class InstallUGMDependencies
     {
@@ -127,4 +129,5 @@ namespace UGM.Editor
     //         EditorPrefs.SetBool($"{Application.dataPath}{key}", value);
     //     }
     // }
+#endif
 }
