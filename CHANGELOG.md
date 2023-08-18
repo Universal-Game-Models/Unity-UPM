@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.7...v1.0.8) (2023-08-18)
+
+
+### Bug Fixes
+
+* add scripting defines to editor scripts, remove required materials from core ([8128624](https://github.com/Universal-Game-Models/Unity-UPM/commit/81286244ac69f3451e7128648609ed0587bca9ac))
+
 ## [1.0.7](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.6...v1.0.7) (2023-07-26)
 
 
