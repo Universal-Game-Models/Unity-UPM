@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.8...v1.0.9) (2023-08-21)
+
+
+### Bug Fixes
+
+* show model during placement ([42cbc15](https://github.com/Universal-Game-Models/Unity-UPM/commit/42cbc15241ba79c79ceeaade819ba0f248b5efb9))
+
 ## [1.0.8](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.7...v1.0.8) (2023-08-18)
 
 
