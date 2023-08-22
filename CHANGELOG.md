@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.10...v1.0.11) (2023-08-22)
+
+
+### Bug Fixes
+
+* reduce radius of collision for object placement ([65a8938](https://github.com/Universal-Game-Models/Unity-UPM/commit/65a89382a22d3af08780f103ebb4ee1785862b7e))
+
 ## [1.0.10](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.9...v1.0.10) (2023-08-22)
 
 
