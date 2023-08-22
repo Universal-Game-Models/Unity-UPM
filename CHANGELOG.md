@@ -1,3 +1,13 @@
+## [1.0.12](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.11...v1.0.12) (2023-08-22)
+
+
+### Bug Fixes
+
+* add newtonsoft as a dependency for older unity versions ([d03ad07](https://github.com/Universal-Game-Models/Unity-UPM/commit/d03ad0735c0edd4e26ecfa60542ae217b1260f1d))
+* add testnet url ([b131954](https://github.com/Universal-Game-Models/Unity-UPM/commit/b1319546bfefcab13000105b0b4c0306e91bf188))
+* edit package details ([24b3cd5](https://github.com/Universal-Game-Models/Unity-UPM/commit/24b3cd5686e021c8b82aa6eff5bbad00a725444c))
+* typo ([b918f12](https://github.com/Universal-Game-Models/Unity-UPM/commit/b918f1259acc4c1d5a607b2a8cae8d7ee68636df))
+
 ## [1.0.11](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.10...v1.0.11) (2023-08-22)
 
 
