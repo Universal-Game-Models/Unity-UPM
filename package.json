@@ -2,18 +2,18 @@
     "name": "com.nftygames.ugm",
     "version": "1.0.11",
     "displayName": "UGM",
-    "description": "This is the SDK of the UGM",
+    "description": "This is the SDK for Universal Game Modles",
     "unity": "2020.3",
     "unityRelease": "0b5",
-    "documentationUrl": "https://example.com/",
+    "documentationUrl": "https://testnet.universalgamemodels.com/developers",
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
     "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
     },
     "author": {
-        "name": "Nfty Games",
-        "email": "unity@example.com",
+        "name": "Universal Game Models",
+        "email": "contact@universalgamemodels.com",
         "url": "https://www.unity3d.com"
     },
     "samples": [
