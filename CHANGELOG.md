@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.12...v1.0.13) (2023-08-22)
+
+
+### Bug Fixes
+
+* avatar loader no longer destroys animator on load ([53f5af0](https://github.com/Universal-Game-Models/Unity-UPM/commit/53f5af0ff4ccdbda54581c1c639be4102922a164))
+
 ## [1.0.12](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.11...v1.0.12) (2023-08-22)
 
 
