@@ -14,12 +14,12 @@
     "author": {
         "name": "Universal Game Models",
         "email": "contact@universalgamemodels.com",
-        "url": "https://www.unity3d.com"
+        "url": "https://testnet.universalgamemodels.com/"
     },
     "samples": [
         {
             "displayName": "UGM Examples",
-            "description": "Contains a lot of functions to use UGM",
+            "description": "Contains a lot of example use-cases for UGM",
             "path": "Samples~/UGM"
         }
     ]
