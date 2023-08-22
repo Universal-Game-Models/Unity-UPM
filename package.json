@@ -2,17 +2,17 @@
     "name": "com.nftygames.ugmcore",
     "version": "0.0.2",
     "displayName": "UGM Core",
-    "description": "This is the SDK of the UGM Core",
+    "description": "This is the Core SDK for Universal Game Models",
     "unity": "2020.3",
     "unityRelease": "0b5",
-    "documentationUrl": "https://example.com/",
+    "documentationUrl": "https://testnet.universalgamemodels.com/developers",
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
     "dependencies": {},
     "author": {
-      "name": "Nfty Games",
-      "email": "unity@example.com",
-      "url": "https://www.unity3d.com"
+        "name": "Universal Game Models",
+        "email": "contact@universalgamemodels.com",
+        "url": "https://testnet.universalgamemodels.com/"
     }
   }
   
