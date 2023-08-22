@@ -2,7 +2,7 @@
     "name": "com.nftygames.ugm",
     "version": "1.0.11",
     "displayName": "UGM",
-    "description": "This is the SDK for Universal Game Modles",
+    "description": "This is the SDK for Universal Game Models",
     "unity": "2020.3",
     "unityRelease": "0b5",
     "documentationUrl": "https://testnet.universalgamemodels.com/developers",
