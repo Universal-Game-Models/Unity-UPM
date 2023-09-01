@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.13...v1.0.14) (2023-09-01)
+
+
+### Bug Fixes
+
+* added integration for opsive ([7f6c728](https://github.com/Universal-Game-Models/Unity-UPM/commit/7f6c728016c2712259692a6c9af985d5672c997b))
+
 ## [1.0.13](https://github.com/Universal-Game-Models/Unity-UPM/compare/v1.0.12...v1.0.13) (2023-08-22)
 
 

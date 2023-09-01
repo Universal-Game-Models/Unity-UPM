@@ -1,6 +1,6 @@
 {
     "name": "com.nftygames.ugm",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "displayName": "UGM",
     "description": "This is the SDK for Universal Game Models. If you are installing the Opsive integration, please note that you will need the UGM Example.",
     "unity": "2020.3",
