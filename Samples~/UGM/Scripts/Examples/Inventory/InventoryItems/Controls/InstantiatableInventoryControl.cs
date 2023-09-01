@@ -287,7 +287,7 @@ namespace UGM.Examples.Inventory.InventoryItems.Controls
         /// If the hologram can be placed and no UI elements are being clicked, loads the model at the hit point.
         /// If the right mouse button is clicked, cancels the hologram and clears the current TokenInfo.
         /// </summary>
-        private void PlaceOrCancel(RaycastHit hit)
+        protected virtual void PlaceOrCancel(RaycastHit hit)
         {
             if (Input.GetMouseButtonUp(0))
             {
